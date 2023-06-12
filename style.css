@@ -72,3 +72,22 @@ a{
     background-color: #96c93e;
     color: #ffffff;
 }
+
+.p-3{
+    background-color: #2aa644;
+}
+
+.card-body > p:last-of-type{
+    font-size: 0.8rem;
+}
+
+.total {
+    background: #cce5ff;
+}
+
+.total-input{
+    border: none;
+    outline: none;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
